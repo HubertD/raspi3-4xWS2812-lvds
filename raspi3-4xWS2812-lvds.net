@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/hd/src/kicad/raspi3-4xWS2812-lvds/raspi3-4xWS2812-lvds.sch)
-    (date "Mi 27 Jun 2018 01:15:04 CEST")
+    (date "Mi 27 Jun 2018 22:15:56 CEST")
     (tool "Eeschema 5.0.0-rc2-unknown-dd436b6~65~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -108,7 +108,7 @@
       (tstamp 5B31A45D))
     (comp (ref J1)
       (value Conn_ARM_JTAG_SWD_10)
-      (footprint Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD)
+      (footprint Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical)
       (datasheet http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf)
       (libsource (lib Connector) (part Conn_ARM_JTAG_SWD_10) (description "Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface"))
       (sheetpath (names /) (tstamps /))

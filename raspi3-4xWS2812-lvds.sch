@@ -424,7 +424,7 @@ U 1 1 5B31B08C
 P 2450 6150
 F 0 "J1" H 2150 6700 50  0000 R CNN
 F 1 "Conn_ARM_JTAG_SWD_10" V 2000 6600 50  0000 R CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 2500 5600 50  0001 L TNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" H 2500 5600 50  0001 L TNN
 F 3 "http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf" V 2100 4900 50  0001 C CNN
 	1    2450 6150
 	1    0    0    -1  
